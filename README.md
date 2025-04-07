@@ -24,7 +24,6 @@
   <div style="margin: 20px;">
   </div>
     <img src="https://github-readme-stats.vercel.app/api?username=HasanRagab&show_icons=true&theme=radical" alt="Streak" style="margin: 20px;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=HasanRagab&show_icons=true&theme=radical" style="margin: 20px;"/>
   </p>
    <div style="text-align:center; margin: 20px;">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
